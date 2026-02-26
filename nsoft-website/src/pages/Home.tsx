@@ -204,6 +204,12 @@ export default function Home() {
           </Link>
         </div>
       </section>
+
+    <section>
+      <p> Git hub Practise </p>
+    </section>
+
+
     </div>
   )
 }
