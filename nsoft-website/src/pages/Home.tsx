@@ -36,7 +36,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              About Nsoft India Services
+              Hello
             </h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
               Nsoft India Services Limited is a leading provider of innovative technology solutions for government utility departments in Karnataka. With expertise in smart metering and billing systems, we help modernize electricity and water management across the state.
@@ -187,10 +187,10 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="gradient-green-yellow text-white py-16">
+      <section className="gradient-green-yellow text-white py-16 ">
         <div className="max-w-4xl mx-auto text-center px-4">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Ready to Transform Your Utility Operations?
+            Ready to Transform Your Utility Operations ? 
           </h2>
           <p className="text-lg opacity-95 mb-8">
             Join government departments across Karnataka that trust Nsoft for their digital transformation needs.
